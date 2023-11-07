@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educação Física na Infância</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Educação Física na Infância</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="beneficios.html">Benefícios</a></li>
+                <li><a href="atividades.html">Atividades</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre</h2>
+            <p>Educação Física na Infância é um tema de grande relevância para o desenvolvimento integral das crianças.</p>
+        </section>
+
+        <section>
+            <h2>Benefícios</h2>
+            <ul>
+                <li>Aumento da força muscular</li>
+                <li>Melhora na coordenação motora</li>
+                <li>Fortalecimento do sistema cardiovascular</li>
+                <li>Promoção da habilidade social</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Atividades</h2>
+            <ul>
+                <li>Caminhadas</li>
+                <li>Brincadeiras coletivas</li>
+                <li>Jogos de bola</li>
+                <li>Natação</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contato</h2>
+            <p>E-mail
